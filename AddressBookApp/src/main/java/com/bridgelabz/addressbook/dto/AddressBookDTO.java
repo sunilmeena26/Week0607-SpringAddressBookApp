@@ -1,6 +1,5 @@
 package com.bridgelabz.addressbook.dto;
 
-import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
 import lombok.AllArgsConstructor;
 import lombok.Getter;

@@ -62,7 +62,7 @@
 			<version>2.3.232</version>
 			<scope>runtime</scope>
 		</dependency>
-
+		<!-- https://mvnrepository.com/artifact/org.slf4j/slf4j-api -->
 	</dependencies>
 
 	<build>
